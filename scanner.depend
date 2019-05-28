@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1558882202 source:d:\codeblocks\codestation\scanner\main.cpp
+	<cstdio>
+	<cstdlib>
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<stack>
+	<map>
+	<algorithm>
+
